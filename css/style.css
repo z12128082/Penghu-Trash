@@ -410,7 +410,7 @@ html { opacity: 0; }
 }
 .all_foot_link ._sec.hover ._bottom { color:#fff; }
 
-/* #header ヘッダー
+/* #header 
 =========================================== */
 #header {
 	height: 100vh;
@@ -665,7 +665,7 @@ html { opacity: 0; }
 	color: #1a1a1a;
 }
 
-/* #top　トップページ
+/* #top　
 =========================================== */
 .loading {
 	background: #fff;
@@ -755,7 +755,7 @@ html { opacity: 0; }
 	transition:transform 1.6s cubic-bezier(0.22, 0.61, 0.36, 1), opacity 1.4s ease;
 }
 .top_mv_img_sec ._right {
-	background: url('/img/1530859461.jpg') no-repeat center right / cover;
+	background: url('../img/1530859461.jpg') no-repeat center right / cover;
 	width: 20.3%;
 	transition:transform 1.2s .4s cubic-bezier(0.22, 0.61, 0.36, 1) , opacity 1s .2s ease;
 }
@@ -765,12 +765,12 @@ html { opacity: 0; }
 	will-change: transform;
 }
 .top_mv_img_sec ._left ._inner {
-	background: url('./img/369843.jpg') no-repeat 36% center / cover;
+	background: url('../img/369843.jpg') no-repeat 36% center / cover;
 	transform:scale(1.4);
 	transition: 1.4s ease;
 }
 .top_mv_img_sec ._right ._inner {
-	background: url('/img/1530859461.jpg') no-repeat 36% center / cover;
+	background: url('../img/1530859461.jpg') no-repeat 36% center / cover;
 	transform:scale(1.8);
 	transition: 1.4s .4s ease;
 }
@@ -993,7 +993,7 @@ html { opacity: 0; }
 }
 .top_link_item .hover ._text::before{ width: 52px; }
 
-/* #professional 麹菌のプロフェッショナル
+/* #professional 
 =========================================== */
 .professional_what { margin-top:190px; position:relative; }
 .professional_what ._inner {
