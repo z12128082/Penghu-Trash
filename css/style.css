@@ -765,7 +765,7 @@ html { opacity: 0; }
 	will-change: transform;
 }
 .top_mv_img_sec ._left ._inner {
-	background: url('/img/369843.jpg') no-repeat 36% center / cover;
+	background: url('./img/369843.jpg') no-repeat 36% center / cover;
 	transform:scale(1.4);
 	transition: 1.4s ease;
 }
